@@ -7,7 +7,7 @@
 <li>A visit from the Bug Police 🚓🐛</li>
 </ul>
 
-<p>Proceed at your own risk! 😆🚀</p>
+<p><s>Proceed at your own risk! 💀🚀</s></p>
 
 <!--
 **Phenomenals619/Phenomenals619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
