@@ -1,10 +1,10 @@
-##🚨 WARNING: Highly Advanced, Totally Original Code! 🚨
+<h1>🚨 WARNING: Highly Advanced, Totally Original Code! 🚨</h1>
 
 <p>This repo contains code so revolutionary that even AI would say, "Wow!" 🤖💥 Copying or cloning may cause:</p>
 <ul>
-Your keyboard to melt 🔥
-Your IDE to crash in disbelief 😵‍💫
-A visit from the Bug Police 🚓🐛
+<li>Your keyboard to melt 🔥</li>
+<li>Your IDE to crash in disbelief 😵‍💫</li>
+<li>A visit from the Bug Police 🚓🐛</li>
 </ul>
 
 <p>Proceed at your own risk! 😆🚀</p>
