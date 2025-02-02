@@ -1,4 +1,4 @@
-<h1>🚨 WARNING: Highly Advanced, Totally Original Code! 🚨</h1>
+<h1>🚨 DANGER: FORBIDDEN CODE AHEAD! 🚨</h1>
 
 <p>This repo contains code so revolutionary that even AI would say, "Wow!" 🤖💥 Copying or cloning may cause:</p>
 <ul>
