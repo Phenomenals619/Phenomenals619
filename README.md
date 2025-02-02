@@ -1,4 +1,13 @@
-## Hi there 👋
+##🚨 WARNING: Highly Advanced, Totally Original Code! 🚨
+
+<p>This repo contains code so revolutionary that even AI would say, "Wow!" 🤖💥 Copying or cloning may cause:</p>
+<ul>
+Your keyboard to melt 🔥
+Your IDE to crash in disbelief 😵‍💫
+A visit from the Bug Police 🚓🐛
+</ul>
+
+<p>Proceed at your own risk! 😆🚀</p>
 
 <!--
 **Phenomenals619/Phenomenals619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
